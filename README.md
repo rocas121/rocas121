@@ -5,3 +5,4 @@ Young programmer with 2 years of experience that is:
 
 - Learning CPP
 - Looking for internship
+-Finding a way to quickly adapt to new stuffs ill learn
